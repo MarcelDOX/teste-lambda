@@ -1,4 +1,4 @@
-service: prisma-aws-lambda-example
+service: teste-lambda
 plugins:
   - serverless-dotenv-plugin
 
