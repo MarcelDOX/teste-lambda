@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@prisma/client": "4.9.0",
-    "serverless-scriptable-plugin": "^1.2.2"
+    "serverless-scriptable-plugin": "^1.2.2",
+    "to-case": "^2.0.0"
   },
   "devDependencies": {
     "prisma": "4.9.0",

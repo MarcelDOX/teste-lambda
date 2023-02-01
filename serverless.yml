@@ -1,4 +1,4 @@
-service: teste-lambda
+service: teste-lambda-2
 plugins:
   - serverless-dotenv-plugin
   - serverless-scriptable-plugin
